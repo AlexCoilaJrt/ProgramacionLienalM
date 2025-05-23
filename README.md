@@ -12,7 +12,9 @@ Soporte para maximización y minimización.
 
 📷 Vista previa
 
-(Puedes subir una imagen del resultado y pegar aquí el enlace)
+![Descripción imagen 1](./assets/a.png)
+![Descripción imagen 2](./assets/b.jpg)
+
 
 🛠 Tecnologías utilizadas
 Flask
