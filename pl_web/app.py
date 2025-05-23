@@ -1,4 +1,3 @@
-
 from flask import Flask, render_template, request
 from pulp import *
 import plotly.graph_objs as go
@@ -125,4 +124,3 @@ def resolver_programacion_lineal(coef_objetivo, restricciones, rhs, operadores, 
 
 if __name__=='__main__':
     app.run(debug=True)
-
