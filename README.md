@@ -14,9 +14,7 @@ Soporte para maximización y minimización.
 
 ![Descripción imagen 1](./assets/a.png)
 
-![Descripción imagen 2](assets/b.png)
-
-
+![Descripción imagen 2](./assets/b.jpg)
 
 🛠 Tecnologías utilizadas
 Flask
