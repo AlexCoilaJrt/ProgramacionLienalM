@@ -14,7 +14,8 @@ Soporte para maximización y minimización.
 
 ![Descripción imagen 1](./assets/a.png)
 
-![Descripción imagen 2](./assets/b.jpg)
+![Descripción imagen 2](assets/b.png)
+
 
 
 🛠 Tecnologías utilizadas
